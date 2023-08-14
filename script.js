@@ -35,7 +35,7 @@ function rendergame(){
         hasblackjack = true
     }
     else{
-        message = "You are out get the fuck out of here!"
+        message = "You are out!"
         isAlive = false
     }
     messageEl.textContent = message
